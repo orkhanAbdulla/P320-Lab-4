@@ -1,0 +1,16 @@
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\Task-1.exe
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\Task-1.deps.json
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\Task-1.runtimeconfig.json
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\Task-1.runtimeconfig.dev.json
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\Task-1.dll
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\ref\Task-1.dll
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\bin\Debug\net5.0\Task-1.pdb
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.dll
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\ref\Task-1.dll
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.pdb
+C:\Users\hp\Source\Repos\P320-LAB-4\Task-1\obj\Debug\net5.0\Task-1.genruntimeconfig.cache
